@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Khub_space_thing/static/css/main.b0025325.css",
+    "main.js": "/Khub_space_thing/static/js/main.2b32a409.js",
+    "static/js/787.1937f22b.chunk.js": "/Khub_space_thing/static/js/787.1937f22b.chunk.js",
+    "static/media/planet-background.png": "/Khub_space_thing/static/media/planet-background.2b73e346d2e1115c8bbc.png",
+    "static/media/earth-background.png": "/Khub_space_thing/static/media/earth-background.41698966ec76bc4dd333.png",
+    "static/media/jupiter.png": "/Khub_space_thing/static/media/jupiter.ac8b90c6363e70773c23.png",
+    "index.html": "/Khub_space_thing/index.html",
+    "main.b0025325.css.map": "/Khub_space_thing/static/css/main.b0025325.css.map",
+    "main.2b32a409.js.map": "/Khub_space_thing/static/js/main.2b32a409.js.map",
+    "787.1937f22b.chunk.js.map": "/Khub_space_thing/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0025325.css",
+    "static/js/main.2b32a409.js"
+  ]
+}
